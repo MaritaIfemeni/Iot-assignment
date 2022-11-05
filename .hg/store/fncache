@@ -1,0 +1,5 @@
+data/mbed_app.json.i
+data/mbed-mqtt.lib.i
+data/README.md.i
+data/main.cpp.i
+data/mbed-os.lib.i
